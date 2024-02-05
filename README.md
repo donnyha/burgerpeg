@@ -18,19 +18,19 @@
    cd burgerpeg
    ```
 
-3. Install dependencies:
+  3. Install dependencies:
 
    ```bash
    npm install
    ```
 
-4. Start the development server:
+  4. Start the development server:
 
    ```bash
    npm start
    ```
 
-5. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to view the application.
+  5. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to view the application.
 
 ## Technologies Used
 - HTML5
