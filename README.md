@@ -1,19 +1,18 @@
-```
 # BurgerPeg
 
   BurgerPeg is a brochure web application.
-  
-  ## Installation
 
-To run BurgerPeg locally on your machine, follow these steps:
+## Installation
 
-1. Clone the repository:
+  To run BurgerPeg locally on your machine, follow these steps:
+
+  1. Clone the repository:
 
    ```bash
    git clone https://github.com/donnyha/burgerpeg.git
    ```
 
-2. Navigate to the project directory:
+  2. Navigate to the project directory:
 
    ``bash
    cd burgerpeg
