@@ -14,7 +14,7 @@
 
   2. Navigate to the project directory:
 
-   ``bash
+   ```bash
    cd burgerpeg
    ```
 
